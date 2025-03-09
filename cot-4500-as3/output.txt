@@ -1,0 +1,5 @@
+kolchmielarz@Kols-MacBook-Pro cot-4500-as3 % /opt/homebrew/bin/pytho
+n3 "/Users/kolchmielarz/cot-4500-as3/src/test/test_ assignment_3.py"
+
+Euler Method result: 1.2446380979332123
+Runge-Kutta result: 1.251316587879806
